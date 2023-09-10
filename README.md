@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Drexleer</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">If you can dream it you can do it🌟.</h3>
 
 <!--- snake -->
 <div align="center">
