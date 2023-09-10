@@ -16,7 +16,8 @@
  ```python
   class WhoAmI:
     user = 'Drexleer'
-    currently_learning = "Mongodb", "Tailwind", "TypeScript"
+    currently_learning = "Mongodb", "Tailwind", 
+	"TypeScript"
     fun_fact = "Love One piece"
 	hobbies = [
 				'Music',
