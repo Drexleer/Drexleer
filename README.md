@@ -21,10 +21,10 @@
 
     fun_fact = "Love One piece"
 	hobbies = [
-	'Music',
+		'Music',
  		'Anime',
-	'Gaming',
-	'Movies'
+		'Gaming',
+		'Movies'
 		]
 	
 	def Dream():
