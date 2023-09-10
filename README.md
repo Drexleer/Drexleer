@@ -15,19 +15,18 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+    user = 'Drexleer'
+    currently_learning = "Mongodb", "Tailwind", "TypeScript"
+    fun_fact = "Love One piece"
 	hobbies = [
 				'Music',
-                         'Chilling',
+                         'Anime',
 			 	'Gaming',
-				'Sci-Fi Movies'
+				'Movies'
 			]
 	
-	def getCity():
-		return Chhattisgarh_India()
+	def Dream():
+		return create_a_video_game()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
