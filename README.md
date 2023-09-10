@@ -22,7 +22,7 @@
     fun_fact = "Love One piece"
 	hobbies = [
 		'Music',
- 'Anime',
+		'Anime',
 		'Gaming',
 		'Movies'
 			]
