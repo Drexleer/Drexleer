@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Drexleer</h1>
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manumanoj0010/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:manumanoj0010@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/manumanoj0010) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/m.a.n.u.m.a.n.o.j) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)
 <h3 align="center">If you can dream it you can do it🌟.</h3>
 
 <!--- snake -->
@@ -55,3 +54,35 @@
   </a>
 </p>
 <br>
+
+<!-----Social Accounts------>
+
+<p align="center">
+<a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hrugved-kolhe-364881193/">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://twitter.com/HrugVed_">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/nolan/40/twitter.png"/>
+</a>
+
+<a href="https://www.instagram.com/_hrugved_/">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
+
+<a href="https://t.me/Dev1ce_06">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+</a>
+
+<a href="https://discord.com/channels/@me/862133669510250506">
+<img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+</a>
+
+<a href="mailto:hskolhe666@gmail.com">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+</p>
