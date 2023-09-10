@@ -22,10 +22,10 @@
     fun_fact = "Love One piece"
 	hobbies = [
 		'Music',
- 		'Anime',
+ 'Anime',
 		'Gaming',
 		'Movies'
-		]
+			]
 	
 	def Dream():
 		return create_a_video_game()
