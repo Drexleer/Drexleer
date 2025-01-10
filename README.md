@@ -4,7 +4,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://i.imgur.com/c4GvwuH.jpeg"
        alt="snake" /></a>
 </div>
 
