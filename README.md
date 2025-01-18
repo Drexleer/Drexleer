@@ -17,7 +17,7 @@
   class WhoAmI:
     user = 'Drexleer'
     currently_learning = "Python",
-	"Django", "TypeScript"
+	"Django", "C#"
 
     fun_fact = "Love One piece"
 	hobbies = [
