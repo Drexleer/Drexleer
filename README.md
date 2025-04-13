@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Drexleer</h1>
 <h3 align="center">If you can dream it you can do it🌟.</h3>
 
-<!--- snake -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Drexleer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
